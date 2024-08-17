@@ -59,13 +59,15 @@ Ensure you have the following installed on your machine:
 
 3. **Install frontend dependencies:**
 
-   `cd frontend  
-   yarn install`
+   `cd frontend`
+     
+   `yarn install`
 
 5. **Install backend dependencies:**
 
-   `cd ../backend  
-   yarn install`
+   `cd ../backend`  
+
+   `yarn install`
 
 ### Running the Application
 #### Start MongoDB:
@@ -74,15 +76,17 @@ Make sure MongoDB is running on your local machine or update the connection stri
 
 #### Start the backend server:
 
-`cd backend
-yarn start`
+`cd backend`
+
+`yarn start`
 
 > The server will start on http://localhost:3001.
 
 Start the frontend development server:
 
-`cd ../frontend
-yarn start`
+`cd ../frontend`
+
+`yarn start`
 
 > The frontend will start on http://localhost:3000.
 
