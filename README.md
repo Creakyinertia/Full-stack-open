@@ -98,24 +98,6 @@ Start the frontend development server:
 - Responsive and dynamic user interface built with React
 - State management with React hooks
 
-### Folder structure 
-full-stack-open-project/
-│
-├── frontend/          # frontend code
-│   ├── public/
-│   ├── src/
-│   ├── package.json
-│   └── ...
-│
-└── backend/           # backend code
-    ├── controllers/
-    ├── models/
-    ├── routes/
-    ├── app.js
-    ├── server.js
-    ├── package.json
-    └── ...
-
 ### Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an issue if you find a bug or have a suggestion.
