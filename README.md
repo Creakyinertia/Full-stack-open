@@ -2,9 +2,13 @@
 This repository contains the project I developed as part of the Full Stack Open course. The application demonstrates the use of modern web development technologies and practices, covering both frontend and backend development.
 
 Table of Contents
+
 About the Project
+
 Technologies Used
+
 Getting Started
+
 Prerequisites
 Installation
 Running the Application
