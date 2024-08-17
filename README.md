@@ -53,8 +53,8 @@ Ensure you have the following installed on your machine:
 
 1. **Clone the repository:**
 
-   `git clone https://github.com/your-username/full-stack-open-project.git  
-   cd full-stack-open-project`
+   git clone https://github.com/your-username/full-stack-open-project.git  
+   cd full-stack-open-project
 
 3. **Install frontend dependencies:**
 
