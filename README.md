@@ -52,16 +52,16 @@ Ensure you have the following installed on your machine:
 ### Installation
 
 1. **Clone the repository:**
-   `git clone https://github.com/your-username/full-stack-open-project.git`
-   `cd full-stack-open-project`
+   `git clone https://github.com/your-username/full-stack-open-project.git
+   cd full-stack-open-project`
 
 2. **Install frontend dependencies:**
-   `cd frontend`
-   `yarn install`
+   `cd frontend
+   yarn install`
 
 3. **Install backend dependencies:**
-   `cd ../backend`
-   `yarn install`
+   `cd ../backend
+   yarn install`
 
 ### Running the Application
 #### Start MongoDB:
@@ -70,15 +70,15 @@ Make sure MongoDB is running on your local machine or update the connection stri
 
 #### Start the backend server:
 
-`cd backend`
-`yarn start`
+`cd backend
+yarn start`
 
 > The server will start on http://localhost:3001.
 
 Start the frontend development server:
 
-`cd ../frontend`
-`yarn start`
+`cd ../frontend
+yarn start`
 
 > The frontend will start on http://localhost:3000.
 
