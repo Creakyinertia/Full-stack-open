@@ -52,15 +52,18 @@ Ensure you have the following installed on your machine:
 ### Installation
 
 1. **Clone the repository:**
-   `git clone https://github.com/your-username/full-stack-open-project.git
+
+   `git clone https://github.com/your-username/full-stack-open-project.git  
    cd full-stack-open-project`
 
-2. **Install frontend dependencies:**
-   `cd frontend
+3. **Install frontend dependencies:**
+
+   `cd frontend  
    yarn install`
 
-3. **Install backend dependencies:**
-   `cd ../backend
+5. **Install backend dependencies:**
+
+   `cd ../backend  
    yarn install`
 
 ### Running the Application
